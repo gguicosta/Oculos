@@ -14,5 +14,5 @@ WORKDIR /workspace
 
 # Instala bibliotecas vitais para física, análise e comunicação de dados
 RUN pip install --no-cache-dir \
-    numpy scipy pandas matplotlib ipykernel
+    numpy scipy pandas matplotlib ipykernel opencv-python-headless
 # websockets pyserial scikit-learn scikit-image
