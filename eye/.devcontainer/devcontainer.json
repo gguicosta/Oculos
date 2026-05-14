@@ -1,0 +1,23 @@
+{
+    "name": "Laboratorio-Fisica",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "runArgs": [
+        "--name",
+        "lab_fisica_container"
+    ],
+    "forwardPorts": [
+        8080,
+        8765
+    ],
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter",
+                "ms-python.vscode-pylance"
+            ]
+        }
+    }
+}

@@ -1,0 +1,377 @@
+data_id,sensor_name,eye_side,tempo_ms,pct_fundo,pct_iris,pct_pupila,pct_esclera
+1,Triple,esquerdo,138,99.99,0.01,0.0,0.0
+2,Triple,esquerdo,180,99.99,0.01,0.0,0.0
+3,Triple,esquerdo,647,99.99,0.01,0.0,0.0
+4,Triple,esquerdo,1102,99.98,0.01,0.0,0.0
+5,Triple,esquerdo,1540,99.99,0.01,0.0,0.0
+6,Triple,esquerdo,2005,99.98,0.01,0.01,0.0
+7,Triple,esquerdo,2486,99.97,0.02,0.01,0.0
+8,Triple,esquerdo,2950,99.98,0.02,0.0,0.0
+9,Triple,esquerdo,3438,100.0,0.0,0.0,0.0
+10,Triple,esquerdo,3911,99.99,0.01,0.0,0.0
+11,Triple,esquerdo,4368,99.99,0.0,0.0,0.0
+12,Triple,esquerdo,4788,99.99,0.01,0.0,0.0
+13,Triple,esquerdo,5209,99.99,0.0,0.0,0.0
+14,Triple,esquerdo,5648,99.99,0.01,0.0,0.0
+15,Triple,esquerdo,6092,99.99,0.0,0.0,0.0
+16,Triple,esquerdo,6552,99.99,0.01,0.01,0.0
+17,Triple,esquerdo,6984,99.99,0.01,0.0,0.0
+18,Triple,esquerdo,7371,99.99,0.01,0.0,0.0
+19,Triple,esquerdo,7763,99.99,0.01,0.01,0.0
+20,Triple,esquerdo,8175,99.98,0.01,0.01,0.0
+21,Triple,esquerdo,8580,99.98,0.01,0.0,0.0
+22,Triple,esquerdo,9037,99.98,0.02,0.0,0.0
+23,Triple,esquerdo,9479,99.98,0.02,0.0,0.0
+24,Triple,esquerdo,9926,99.96,0.03,0.0,0.0
+25,Triple,esquerdo,10388,100.0,0.0,0.0,0.0
+26,Triple,esquerdo,10880,99.98,0.01,0.01,0.0
+27,Triple,esquerdo,11363,99.98,0.01,0.01,0.0
+28,Triple,esquerdo,11843,99.98,0.01,0.01,0.0
+29,Triple,esquerdo,12318,99.99,0.0,0.0,0.0
+30,Triple,esquerdo,12800,99.99,0.01,0.0,0.0
+31,Triple,esquerdo,13263,99.98,0.02,0.0,0.0
+32,Triple,esquerdo,13707,99.99,0.01,0.0,0.0
+33,Triple,esquerdo,14152,99.98,0.01,0.01,0.0
+34,Triple,esquerdo,14605,99.98,0.01,0.0,0.0
+35,Triple,esquerdo,15058,99.98,0.01,0.0,0.0
+36,Triple,esquerdo,15531,99.98,0.01,0.0,0.0
+37,Triple,esquerdo,16016,99.98,0.01,0.0,0.0
+38,Triple,esquerdo,16512,99.99,0.01,0.0,0.0
+39,Triple,esquerdo,17001,99.98,0.01,0.0,0.0
+40,Triple,esquerdo,17485,99.99,0.01,0.0,0.0
+41,Triple,esquerdo,17965,99.99,0.01,0.01,0.0
+42,Triple,esquerdo,18397,99.99,0.01,0.0,0.0
+43,Triple,esquerdo,18872,99.98,0.02,0.01,0.0
+44,Triple,esquerdo,19348,99.99,0.01,0.0,0.0
+45,Triple,esquerdo,19833,100.0,0.0,0.0,0.0
+46,Triple,esquerdo,20326,99.99,0.01,0.0,0.0
+47,Triple,esquerdo,20810,99.99,0.01,0.0,0.0
+48,Triple,esquerdo,21294,99.98,0.02,0.0,0.0
+49,Triple,esquerdo,21792,99.98,0.01,0.0,0.0
+50,Triple,esquerdo,22288,99.98,0.02,0.0,0.0
+51,Triple,esquerdo,22838,99.98,0.01,0.0,0.0
+52,Triple,esquerdo,23365,99.99,0.0,0.0,0.0
+53,Triple,esquerdo,23816,99.99,0.01,0.0,0.0
+54,Triple,esquerdo,24304,100.0,0.0,0.0,0.0
+55,Triple,esquerdo,24777,99.99,0.01,0.0,0.0
+56,Triple,esquerdo,25230,99.98,0.02,0.0,0.0
+57,Triple,esquerdo,25704,99.99,0.01,0.0,0.0
+58,Triple,esquerdo,26198,99.99,0.01,0.0,0.0
+59,Triple,esquerdo,26718,99.99,0.01,0.0,0.0
+60,Triple,esquerdo,27238,99.99,0.01,0.0,0.0
+61,Triple,esquerdo,27744,99.98,0.01,0.0,0.0
+62,Triple,esquerdo,28218,99.98,0.02,0.0,0.0
+63,Triple,esquerdo,28708,99.98,0.01,0.0,0.0
+64,Triple,esquerdo,29203,99.98,0.01,0.01,0.0
+65,Triple,esquerdo,29954,99.98,0.01,0.0,0.0
+66,Triple,esquerdo,30437,99.98,0.02,0.0,0.0
+67,Triple,esquerdo,30977,100.0,0.0,0.0,0.0
+68,Triple,esquerdo,31484,99.99,0.01,0.0,0.0
+69,Triple,esquerdo,31931,99.99,0.01,0.0,0.0
+70,Triple,esquerdo,32395,99.99,0.01,0.0,0.0
+71,Triple,esquerdo,32829,99.99,0.01,0.0,0.0
+72,Triple,esquerdo,33277,100.0,0.0,0.0,0.0
+73,Triple,esquerdo,33739,99.99,0.01,0.0,0.0
+74,Triple,esquerdo,34204,100.0,0.0,0.0,0.0
+75,Vitor,esquerdo,162,99.99,0.01,0.0,0.0
+76,Vitor,esquerdo,185,99.98,0.01,0.0,0.0
+77,Vitor,esquerdo,803,99.98,0.02,0.0,0.0
+78,Vitor,esquerdo,1755,99.98,0.01,0.0,0.0
+79,Vitor,esquerdo,2301,99.99,0.01,0.0,0.0
+80,Vitor,esquerdo,2917,99.99,0.01,0.0,0.0
+81,Vitor,esquerdo,3509,99.99,0.01,0.0,0.0
+82,Vitor,esquerdo,4117,99.99,0.01,0.0,0.0
+83,Vitor,esquerdo,4715,100.0,0.0,0.0,0.0
+84,Vitor,esquerdo,5296,99.99,0.0,0.0,0.0
+85,Vitor,esquerdo,5880,99.99,0.01,0.0,0.0
+86,Vitor,esquerdo,6404,99.99,0.01,0.0,0.0
+87,Vitor,esquerdo,7293,99.98,0.02,0.0,0.0
+88,Vitor,esquerdo,7926,99.99,0.01,0.0,0.0
+89,Vitor,esquerdo,8515,100.0,0.0,0.0,0.0
+90,Vitor,esquerdo,8619,99.99,0.01,0.0,0.0
+91,Vitor,esquerdo,9195,99.98,0.01,0.0,0.0
+92,Vitor,esquerdo,9761,99.99,0.01,0.0,0.0
+93,Vitor,esquerdo,10328,99.99,0.01,0.0,0.0
+94,Vitor,esquerdo,10898,99.99,0.01,0.0,0.0
+95,Vitor,esquerdo,11534,99.98,0.01,0.01,0.0
+96,Vitor,esquerdo,12102,99.98,0.01,0.0,0.0
+97,Vitor,esquerdo,12695,100.0,0.0,0.0,0.0
+98,Vitor,esquerdo,13319,99.98,0.02,0.0,0.0
+99,Vitor,esquerdo,13906,99.99,0.01,0.0,0.0
+100,Vitor,esquerdo,14497,99.99,0.01,0.0,0.0
+101,Vitor,esquerdo,15054,99.99,0.0,0.01,0.0
+102,Vitor,esquerdo,15631,99.99,0.01,0.0,0.0
+103,Vitor,esquerdo,16244,99.99,0.01,0.0,0.0
+104,Vitor,esquerdo,16834,99.98,0.02,0.0,0.0
+105,Vitor,esquerdo,17422,99.98,0.02,0.0,0.0
+106,Vitor,esquerdo,18069,99.99,0.0,0.0,0.0
+107,Vitor,esquerdo,18649,99.98,0.02,0.0,0.0
+108,Vitor,esquerdo,19234,99.99,0.01,0.0,0.0
+109,Vitor,esquerdo,19832,99.98,0.01,0.0,0.0
+110,Vitor,esquerdo,20465,99.99,0.01,0.0,0.0
+111,Vitor,esquerdo,21059,99.99,0.01,0.0,0.0
+112,Vitor,esquerdo,21638,99.98,0.01,0.0,0.0
+113,Vitor,esquerdo,22253,100.0,0.0,0.0,0.0
+114,Vitor,esquerdo,22818,99.99,0.01,0.0,0.0
+115,Vitor,esquerdo,23394,100.0,0.0,0.0,0.0
+116,Vitor,esquerdo,23942,99.99,0.01,0.01,0.0
+117,Vitor,esquerdo,24517,99.99,0.01,0.0,0.0
+118,Vitor,esquerdo,25135,99.99,0.01,0.0,0.0
+119,Vitor,esquerdo,25697,99.98,0.01,0.0,0.0
+120,Vitor,esquerdo,26282,99.98,0.02,0.0,0.0
+121,Vitor,esquerdo,26865,99.99,0.01,0.0,0.0
+122,Vitor,esquerdo,27449,99.98,0.02,0.0,0.0
+123,Vitor,esquerdo,28055,99.98,0.01,0.01,0.0
+124,Vitor,esquerdo,28641,99.98,0.02,0.0,0.0
+125,Vitor,esquerdo,29243,99.99,0.01,0.0,0.0
+126,Vitor,esquerdo,29836,99.99,0.01,0.0,0.0
+127,Vitor,esquerdo,30435,99.98,0.01,0.0,0.0
+128,Vitor,esquerdo,31043,99.98,0.01,0.0,0.0
+129,Vitor,esquerdo,31634,99.99,0.01,0.0,0.0
+130,Vitor,esquerdo,32225,99.99,0.01,0.0,0.0
+131,Vitor,esquerdo,32828,99.98,0.01,0.0,0.0
+132,Vitor,esquerdo,33438,99.99,0.01,0.0,0.0
+133,Vitor,esquerdo,34027,99.99,0.01,0.0,0.0
+134,Vitor,esquerdo,34632,99.98,0.01,0.01,0.0
+135,Vitor,esquerdo,35188,99.99,0.01,0.0,0.0
+136,Vitor,esquerdo,35805,99.99,0.01,0.0,0.0
+137,Vitor,esquerdo,36368,99.99,0.01,0.0,0.0
+138,Vitor,esquerdo,37002,99.99,0.01,0.0,0.0
+139,Vitor,esquerdo,37595,99.99,0.01,0.0,0.0
+140,Vitor,esquerdo,38241,99.98,0.01,0.01,0.0
+141,Vitor,esquerdo,38827,99.99,0.0,0.0,0.0
+142,Vitor,esquerdo,39384,99.99,0.01,0.0,0.0
+143,Vitor,esquerdo,39955,99.99,0.01,0.0,0.0
+144,Vitor,esquerdo,40561,99.99,0.01,0.0,0.0
+145,Vitor,esquerdo,41113,99.99,0.01,0.0,0.0
+146,Vitor,esquerdo,41715,99.99,0.01,0.0,0.0
+147,Vitor,esquerdo,42254,99.99,0.01,0.0,0.0
+148,Vitor,esquerdo,42836,99.99,0.01,0.0,0.0
+149,Vitor,esquerdo,43430,99.99,0.01,0.01,0.0
+150,Vitor,esquerdo,44009,99.99,0.01,0.0,0.0
+151,Vitor,esquerdo,44659,100.0,0.0,0.0,0.0
+152,Vitor,esquerdo,45225,99.98,0.01,0.0,0.0
+153,Vitor,esquerdo,45787,99.98,0.01,0.01,0.0
+154,Vitor,esquerdo,46362,99.98,0.01,0.0,0.0
+155,Vitor,esquerdo,46939,99.99,0.01,0.0,0.0
+156,Vitor,esquerdo,47530,99.98,0.02,0.0,0.0
+157,Vitor,esquerdo,48112,99.99,0.01,0.0,0.0
+158,Vitor,esquerdo,48720,99.98,0.01,0.0,0.0
+159,Vitor,esquerdo,49308,99.99,0.01,0.0,0.0
+160,Vitor,esquerdo,49895,99.99,0.01,0.0,0.0
+161,Vitor,esquerdo,50480,99.98,0.01,0.0,0.0
+162,Vitor,esquerdo,51077,100.0,0.0,0.0,0.0
+163,Vitor,esquerdo,51648,99.99,0.01,0.0,0.0
+164,Vitor,esquerdo,52235,100.0,0.0,0.0,0.0
+165,Vitor,esquerdo,52848,99.98,0.01,0.01,0.0
+166,Vitor,esquerdo,53438,99.98,0.02,0.0,0.0
+167,Vitor,esquerdo,54027,99.99,0.01,0.0,0.0
+168,Vitor,esquerdo,54565,100.0,0.0,0.0,0.0
+169,Vitor,esquerdo,55167,99.99,0.01,0.0,0.0
+170,Vitor,esquerdo,55784,99.98,0.01,0.0,0.0
+171,Vitor,esquerdo,56739,99.98,0.01,0.0,0.0
+172,Vitor,esquerdo,57284,99.99,0.01,0.0,0.0
+173,Gustavo ,esquerdo,38,99.97,0.03,0.0,0.0
+174,Gustavo ,esquerdo,145,99.98,0.02,0.0,0.0
+175,Gustavo ,esquerdo,737,99.97,0.02,0.0,0.0
+176,Gustavo ,esquerdo,834,99.97,0.02,0.0,0.0
+177,Gustavo ,esquerdo,943,99.98,0.02,0.0,0.0
+178,Gustavo ,esquerdo,1043,99.98,0.02,0.0,0.0
+179,Gustavo ,esquerdo,1160,99.96,0.03,0.0,0.0
+180,Gustavo ,esquerdo,1772,99.97,0.03,0.0,0.0
+181,Gustavo ,esquerdo,2394,99.96,0.03,0.0,0.0
+182,Gustavo ,esquerdo,3043,99.97,0.02,0.01,0.0
+183,Gustavo ,esquerdo,3614,99.98,0.02,0.0,0.0
+184,Gustavo ,esquerdo,4228,99.98,0.01,0.0,0.0
+185,Gustavo ,esquerdo,4835,99.98,0.02,0.0,0.0
+186,Gustavo ,esquerdo,5484,99.96,0.03,0.01,0.0
+187,Gustavo ,esquerdo,6150,99.97,0.03,0.0,0.0
+188,Gustavo ,esquerdo,6770,99.97,0.02,0.01,0.0
+189,Gustavo ,esquerdo,7386,99.96,0.04,0.0,0.0
+190,Gustavo ,esquerdo,7987,99.96,0.03,0.01,0.0
+191,Gustavo ,esquerdo,8611,99.97,0.02,0.0,0.0
+192,Gustavo ,esquerdo,9245,99.98,0.02,0.01,0.0
+193,Gustavo ,esquerdo,9903,99.97,0.03,0.0,0.0
+194,Gustavo ,esquerdo,10583,99.98,0.02,0.01,0.0
+195,Gustavo ,esquerdo,11207,99.96,0.03,0.01,0.0
+196,Gustavo ,esquerdo,11817,99.94,0.06,0.0,0.0
+197,Gustavo ,esquerdo,12434,99.98,0.02,0.0,0.0
+198,Gustavo ,esquerdo,13057,99.96,0.04,0.01,0.0
+199,Gustavo ,esquerdo,13685,99.97,0.02,0.0,0.0
+200,Gustavo ,esquerdo,14294,99.97,0.02,0.0,0.0
+201,Gustavo ,esquerdo,14887,99.98,0.02,0.0,0.0
+202,Gustavo ,esquerdo,15506,99.98,0.02,0.0,0.0
+203,Gustavo ,esquerdo,16125,99.99,0.01,0.0,0.0
+204,Gustavo ,esquerdo,16756,99.98,0.02,0.0,0.0
+205,Gustavo ,esquerdo,17454,99.98,0.02,0.0,0.0
+206,Gustavo ,esquerdo,18015,99.98,0.02,0.0,0.0
+207,Gustavo ,esquerdo,18980,99.98,0.01,0.01,0.0
+208,Gustavo ,esquerdo,19601,99.95,0.04,0.01,0.0
+209,Gustavo ,esquerdo,20225,99.97,0.02,0.01,0.0
+210,Gustavo ,esquerdo,20863,99.96,0.03,0.01,0.0
+211,Gustavo ,esquerdo,21481,99.98,0.02,0.0,0.0
+212,Gustavo ,esquerdo,22100,99.98,0.01,0.0,0.0
+213,Gustavo ,esquerdo,22215,99.98,0.02,0.0,0.0
+214,Gustavo ,esquerdo,22850,99.99,0.01,0.0,0.0
+215,Gustavo ,esquerdo,23507,99.99,0.01,0.0,0.0
+216,Gustavo ,esquerdo,24135,99.98,0.02,0.0,0.0
+217,Gustavo ,esquerdo,24789,99.98,0.01,0.0,0.0
+218,Gustavo ,esquerdo,25436,99.97,0.02,0.0,0.0
+219,Gustavo ,esquerdo,26052,99.98,0.02,0.01,0.0
+220,Gustavo ,esquerdo,26671,99.98,0.02,0.0,0.0
+221,Gustavo ,esquerdo,27297,99.97,0.02,0.01,0.0
+222,Gustavo ,esquerdo,27923,99.98,0.02,0.0,0.0
+223,Gustavo ,esquerdo,28512,99.98,0.02,0.0,0.0
+224,Gustavo ,esquerdo,29136,99.98,0.02,0.0,0.0
+225,Gustavo ,esquerdo,30382,99.99,0.01,0.0,0.0
+226,Gustavo ,esquerdo,31008,99.98,0.02,0.0,0.0
+227,Gustavo ,esquerdo,31697,99.97,0.03,0.0,0.0
+228,Gustavo ,esquerdo,32310,99.97,0.02,0.0,0.0
+229,Gustavo ,esquerdo,32802,99.98,0.01,0.0,0.0
+230,Gustavo ,esquerdo,33423,99.98,0.02,0.01,0.0
+231,Gustavo ,esquerdo,34059,99.97,0.03,0.0,0.0
+232,Gustavo ,esquerdo,34738,99.99,0.01,0.0,0.0
+233,Gustavo ,esquerdo,34849,99.98,0.02,0.0,0.0
+234,Gustavo ,esquerdo,35426,99.97,0.02,0.0,0.0
+235,Gustavo ,esquerdo,36070,99.97,0.02,0.01,0.0
+236,Gustavo ,esquerdo,36720,99.98,0.02,0.0,0.0
+237,Gustavo ,esquerdo,37384,99.97,0.03,0.0,0.0
+238,Gustavo ,esquerdo,38060,99.96,0.03,0.0,0.0
+239,Gustavo ,esquerdo,38663,99.98,0.02,0.0,0.0
+240,Gustavo ,esquerdo,39397,99.96,0.04,0.0,0.0
+241,Lucas,esquerdo,68,99.98,0.02,0.0,0.0
+242,Lucas,esquerdo,172,99.98,0.02,0.0,0.0
+243,Lucas,esquerdo,772,99.98,0.02,0.0,0.0
+244,Lucas,esquerdo,1374,99.99,0.01,0.0,0.0
+245,Lucas,esquerdo,2006,99.99,0.01,0.0,0.0
+246,Lucas,esquerdo,2650,99.99,0.01,0.0,0.0
+247,Lucas,esquerdo,3312,99.98,0.02,0.0,0.0
+248,Lucas,esquerdo,3989,99.98,0.01,0.0,0.0
+249,Lucas,esquerdo,4572,99.98,0.01,0.0,0.0
+250,Lucas,esquerdo,5236,99.98,0.01,0.0,0.0
+251,Lucas,esquerdo,5829,99.98,0.01,0.0,0.0
+252,Lucas,esquerdo,6427,99.98,0.01,0.0,0.0
+253,Lucas,esquerdo,7308,99.99,0.01,0.0,0.0
+254,Lucas,esquerdo,8090,99.98,0.01,0.0,0.0
+255,Lucas,esquerdo,8710,99.97,0.02,0.01,0.0
+256,Lucas,esquerdo,8819,99.98,0.01,0.01,0.0
+257,Lucas,esquerdo,9426,99.99,0.01,0.0,0.0
+258,Lucas,esquerdo,10049,99.99,0.01,0.0,0.0
+259,Lucas,esquerdo,10644,99.98,0.01,0.0,0.0
+260,Lucas,esquerdo,11242,99.98,0.02,0.0,0.0
+261,Lucas,esquerdo,11848,99.98,0.01,0.01,0.0
+262,Lucas,esquerdo,12453,99.99,0.01,0.0,0.0
+263,Lucas,esquerdo,13036,99.99,0.01,0.0,0.0
+264,Lucas,esquerdo,13687,99.98,0.02,0.0,0.0
+265,Lucas,esquerdo,14329,99.97,0.02,0.01,0.0
+266,Lucas,esquerdo,14992,99.98,0.01,0.0,0.0
+267,Lucas,esquerdo,15626,99.99,0.01,0.0,0.0
+268,Lucas,esquerdo,16320,99.98,0.02,0.0,0.0
+269,Lucas,esquerdo,17034,99.99,0.01,0.0,0.0
+270,Lucas,esquerdo,17760,99.99,0.01,0.0,0.0
+271,Lucas,esquerdo,18457,99.98,0.01,0.0,0.0
+272,Lucas,esquerdo,19102,99.98,0.01,0.0,0.0
+273,Lucas,esquerdo,19733,99.99,0.01,0.0,0.0
+274,Lucas,esquerdo,20393,99.99,0.01,0.0,0.0
+275,Lucas,esquerdo,21008,99.98,0.02,0.0,0.0
+276,Lucas,esquerdo,21721,99.99,0.01,0.0,0.0
+277,Lucas,esquerdo,22393,99.98,0.01,0.0,0.0
+278,Lucas,esquerdo,23043,99.99,0.01,0.01,0.0
+279,Lucas,esquerdo,23698,99.99,0.01,0.0,0.0
+280,Lucas,esquerdo,24317,99.99,0.01,0.0,0.0
+281,Lucas,esquerdo,24958,99.98,0.02,0.01,0.0
+282,Lucas,esquerdo,25586,99.98,0.01,0.0,0.0
+283,Lucas,esquerdo,26196,99.99,0.01,0.01,0.0
+284,Lucas,esquerdo,26835,99.98,0.01,0.0,0.0
+285,Lucas,esquerdo,27449,99.97,0.02,0.0,0.0
+286,Lucas,esquerdo,28068,99.98,0.01,0.01,0.0
+287,Lucas,esquerdo,28747,99.99,0.01,0.0,0.0
+288,Lucas,esquerdo,29409,99.98,0.01,0.0,0.0
+289,Lucas,esquerdo,30176,99.99,0.0,0.0,0.0
+290,Lucas,esquerdo,30808,99.98,0.01,0.0,0.0
+291,Lucas,esquerdo,31476,99.99,0.01,0.0,0.0
+292,Lucas,esquerdo,32118,99.99,0.01,0.0,0.0
+293,Lucas,esquerdo,32753,99.98,0.02,0.0,0.0
+294,Lucas,esquerdo,33373,99.98,0.02,0.0,0.0
+295,Lucas,esquerdo,33951,99.98,0.01,0.0,0.0
+296,Lucas,esquerdo,34629,99.99,0.01,0.0,0.0
+297,Lucas,esquerdo,35254,99.99,0.01,0.0,0.0
+298,Lucas,esquerdo,35866,99.99,0.01,0.0,0.0
+299,Lucas,esquerdo,36448,99.98,0.02,0.0,0.0
+300,Lucas,esquerdo,37083,99.98,0.02,0.01,0.0
+301,Lucas,esquerdo,37707,99.99,0.01,0.0,0.0
+302,Lucas,esquerdo,38387,99.98,0.02,0.01,0.0
+303,Lucas,esquerdo,39017,99.98,0.01,0.0,0.0
+304,Lucas,esquerdo,39590,99.98,0.01,0.01,0.0
+305,Lucas,esquerdo,40611,99.98,0.01,0.01,0.0
+306,Lucas,esquerdo,41256,99.99,0.01,0.01,0.0
+307,Lucas,esquerdo,41888,99.97,0.02,0.01,0.0
+308,Lucas,esquerdo,41989,99.99,0.01,0.0,0.0
+309,Lucas,esquerdo,42609,99.97,0.02,0.01,0.0
+310,Lucas,esquerdo,43230,99.98,0.02,0.0,0.0
+311,Lucas,esquerdo,43864,99.98,0.01,0.01,0.0
+312,Lucas,esquerdo,44480,99.99,0.01,0.0,0.0
+313,Vinycios,esquerdo,106,99.98,0.02,0.0,0.0
+314,Vinycios,esquerdo,189,99.99,0.01,0.0,0.0
+315,Vinycios,esquerdo,867,99.98,0.02,0.0,0.0
+316,Vinycios,esquerdo,1936,99.98,0.02,0.0,0.0
+317,Vinycios,esquerdo,2636,99.97,0.02,0.0,0.0
+318,Vinycios,esquerdo,2750,99.96,0.03,0.01,0.0
+319,Vinycios,esquerdo,3437,99.98,0.02,0.0,0.0
+320,Vinycios,esquerdo,4149,99.98,0.02,0.0,0.0
+321,Vinycios,esquerdo,4815,99.98,0.01,0.0,0.0
+322,Vinycios,esquerdo,5510,99.99,0.01,0.0,0.0
+323,Vinycios,esquerdo,6230,99.98,0.02,0.0,0.0
+324,Vinycios,esquerdo,6883,99.98,0.01,0.01,0.0
+325,Vinycios,esquerdo,7500,99.98,0.02,0.0,0.0
+326,Vinycios,esquerdo,8126,99.98,0.01,0.0,0.0
+327,Vinycios,esquerdo,8814,99.98,0.02,0.0,0.0
+328,Vinycios,esquerdo,9524,99.98,0.01,0.0,0.0
+329,Vinycios,esquerdo,10112,99.98,0.01,0.0,0.0
+330,Vinycios,esquerdo,10839,99.98,0.01,0.01,0.0
+331,Vinycios,esquerdo,11507,99.98,0.02,0.01,0.0
+332,Vinycios,esquerdo,12093,99.99,0.01,0.0,0.0
+333,Vinycios,esquerdo,12812,99.98,0.01,0.01,0.0
+334,Vinycios,esquerdo,13377,99.97,0.02,0.01,0.0
+335,Vinycios,esquerdo,14045,99.97,0.02,0.0,0.0
+336,Vinycios,esquerdo,14728,99.98,0.02,0.0,0.0
+337,Vinycios,esquerdo,15416,99.98,0.02,0.01,0.0
+338,Vinycios,esquerdo,16064,99.98,0.02,0.0,0.0
+339,Vinycios,esquerdo,16715,99.98,0.01,0.0,0.0
+340,Vinycios,esquerdo,17351,99.98,0.02,0.01,0.0
+341,Vinycios,esquerdo,17997,99.98,0.02,0.0,0.0
+342,Vinycios,esquerdo,18685,99.98,0.02,0.01,0.0
+343,Vinycios,esquerdo,19365,99.97,0.02,0.0,0.0
+344,Vinycios,esquerdo,20085,99.98,0.02,0.0,0.0
+345,Vinycios,esquerdo,20713,99.98,0.01,0.01,0.0
+346,Vinycios,esquerdo,21395,99.97,0.02,0.0,0.0
+347,Vinycios,esquerdo,22144,99.97,0.02,0.01,0.0
+348,Vinycios,esquerdo,23100,99.98,0.02,0.01,0.0
+349,Vinycios,esquerdo,23780,99.98,0.02,0.0,0.0
+350,Vinycios,esquerdo,24467,99.99,0.01,0.0,0.0
+351,Vinycios,esquerdo,24545,99.98,0.01,0.01,0.0
+352,Vinycios,esquerdo,25242,99.98,0.02,0.0,0.0
+353,Vinycios,esquerdo,25955,99.97,0.02,0.01,0.0
+354,Vinycios,esquerdo,26666,99.98,0.02,0.0,0.0
+355,Vinycios,esquerdo,27275,99.98,0.01,0.01,0.0
+356,Vinycios,esquerdo,28010,99.98,0.02,0.0,0.0
+357,Vinycios,esquerdo,28696,99.97,0.02,0.01,0.0
+358,Vinycios,esquerdo,29375,99.99,0.01,0.0,0.0
+359,Vinycios,esquerdo,30005,99.98,0.02,0.0,0.0
+360,Vinycios,esquerdo,30699,99.97,0.02,0.01,0.0
+361,Vinycios,esquerdo,31395,99.98,0.01,0.01,0.0
+362,Vinycios,esquerdo,32027,99.99,0.01,0.0,0.0
+363,Vinycios,esquerdo,32733,99.98,0.02,0.01,0.0
+364,Vinycios,esquerdo,33392,99.98,0.01,0.0,0.0
+365,Vinycios,esquerdo,34047,99.98,0.02,0.0,0.0
+366,Vinycios,esquerdo,35135,99.98,0.02,0.0,0.0
+367,Vinycios,esquerdo,35793,99.99,0.01,0.0,0.0
+368,Vinycios,esquerdo,36449,99.98,0.02,0.0,0.0
+369,Vinycios,esquerdo,37076,99.98,0.02,0.0,0.0
+370,Vinycios,esquerdo,37223,99.98,0.02,0.01,0.0
+371,Vinycios,esquerdo,37894,99.98,0.01,0.01,0.0
+372,Vinycios,esquerdo,38566,99.98,0.01,0.01,0.0
+373,Vinycios,esquerdo,39291,99.98,0.02,0.0,0.0
+374,Vinycios,esquerdo,39938,99.98,0.01,0.01,0.0
+375,Vinycios,esquerdo,40597,99.98,0.01,0.0,0.0
+376,Vinycios,esquerdo,41231,99.98,0.02,0.0,0.0
